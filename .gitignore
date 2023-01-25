@@ -1,0 +1,6 @@
+*.zip
+Debug/*
+x64/*
+*.vcxproj*
+packages.config
+Materials/*
